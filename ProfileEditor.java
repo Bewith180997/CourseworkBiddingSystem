@@ -20,7 +20,7 @@ import javafx.scene.control.ListView;
 /**
  * ProfileEditor.java
  * This class controls how the user interacts with the GUI, which is stored in Profile.fxml
- * @author Benjamin Thomas (905010)
+ * @author Bewith180997
  */
 public class ProfileEditor extends Application{
 	
