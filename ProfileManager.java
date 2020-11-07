@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * ProfileManager.java 
  * This class manages multiple instances of the Profile class 
- * @author Benjamin Thomas (905010) 
+ * @author Bewith180997
  */
 
 public class ProfileManager {
