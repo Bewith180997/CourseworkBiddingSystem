@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Profile.java
  * This class stores and retrieves information about a single user's profile
- * @author Benjamin Thomas (905010)
+ * @author Bewith180997
  */
 
 public class Profile {
