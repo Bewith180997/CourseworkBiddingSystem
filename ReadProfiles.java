@@ -5,13 +5,13 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * ReadInformation.java
+ * ReadProfiles.java
  * This class reads in information about the profiles, their artwork, bids, favourites
  * when the system turns on. And when it closes, it writes the updated information into files.
- * @author Benjamin Thomas (905010)
+ * @author Bewith180997
  */
 
-public class ReadInformation {
+public class ReadProfiles {
 	
 	public static final String CHOSEN_DELIMITER = ",";
 	public static final String DEFAULT_PROFILE_FILE_NAME = "profiles.txt" ;
@@ -26,9 +26,9 @@ public class ReadInformation {
 	public static final String DEFAULT_PHOTO5_FILE_NAME = DEFAULT_FILE_LOC + "profile5" + DEFAULT_PHOTO_EXTENSION;
 	
 	/**
-	 * The constructor for the read information class
+	 * The constructor for the read profiles class
 	 */
-	public ReadInformation() {
+	public ReadProfiles() {
 		
 	}
 	
